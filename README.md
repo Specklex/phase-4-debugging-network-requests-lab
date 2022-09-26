@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: There was a typo, 'Toys' should have been 'Toy'
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: Render :json was never typed out
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: The .destroy was not on the correct line
